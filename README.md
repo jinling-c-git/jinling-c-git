@@ -23,6 +23,6 @@
 <a href="https://linkedin.com/in/jinlingcai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jinlingcai" height="30" width="40" /></a>
 </p>
 
-<h3 align="lefr">Tech Meme</h3>
-<img align="center" width="50%" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<h3 align="lefr">Tech meme for fun:</h3>
+<p align="center"><img width="50%" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."></p>
 
