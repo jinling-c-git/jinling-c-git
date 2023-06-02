@@ -4,11 +4,11 @@
 
 ### <img align="right" src="https://media.giphy.com/media/MIF7PtO1ywG8d0pnSk/giphy.gif" width="480" height="320" frameBorder="0" allowFullScreen></img><p>A little more about me...</p>
 
-- 🔭 I’m currently working on **OPSCrowdFundIT and Fabulous Forms**
+- 🔭 I’m currently working on **A mobile app using Flutter**
 
-- 🌱 I’m currently learning **ASP.NET MVC, C#, Power Platform, Appian**
+- 🌱 I’m currently learning **Python, Flutter**
 
-- 💬 Ask me about **Java and related stuff**
+- 💬 Ask me about **Java and Spring Boot, C# and ASP.NET MVC, SQL, Swift, Android**
 
 - 😄 Pronouns: **She/Her**
 
